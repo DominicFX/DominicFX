@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- Glitch Banner -->
-
-<img src="https://capsule-render.vercel.app/api?type=glitch&color=0d1117&height=200&text=DominicFX&fontSize=72&fontColor=00d4ff&desc=automating%20the%20boring%20stuff&descSize=18&descColor=8b949e&descAlignY=62" width="100%" alt="DominicFX" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=DominicFX&fontSize=72&fontColor=00d4ff&fontAlignY=55&desc=automating%20the%20boring%20stuff&descAlignY=75&descSize=16&descColor=8b949e" />
 
 <!-- Typing Animation -->
 
@@ -40,15 +36,26 @@ superpower: Turning repetitive problems into automated solutions
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+### 🐍 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & Container
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Web
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools
+### 🔧 DevOps & Tools
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -104,7 +111,7 @@ Every boring job is someone else's problem —
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" />
 
 *“Work smarter. Then automate the smart part too.”*
 
