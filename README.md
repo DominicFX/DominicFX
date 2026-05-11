@@ -2,7 +2,7 @@
 
 <!-- Glitch Banner -->
 
-<img src="./banner.svg" width="100%" alt="DominicFX" />
+<img src="https://capsule-render.vercel.app/api?type=glitch&color=0d1117&height=200&text=DominicFX&fontSize=72&fontColor=00d4ff&desc=automating%20the%20boring%20stuff&descSize=18&descColor=8b949e&descAlignY=62" width="100%" alt="DominicFX" />
 
 <br/>
 
