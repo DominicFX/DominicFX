@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=DominicFX&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=automating%20the%20boring%20stuff&descAlignY=62&descSize=16&descColor=8b949e&animation=twinkling" />
 
+<br/>
+
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Automation+Engineer;🔁+n8n+Workflow+Wizard;⚡+Telegram+Bot+Builder;🚀+Building+things+that+run+themselves" alt="Typing SVG" />
+<a href="https://github.com/DominicFX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Automation+Engineer;🔁+n8n+Workflow+Wizard;⚡+Telegram+Bot+Builder;🚀+Building+things+that+run+themselves" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
