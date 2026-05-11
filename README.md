@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Glitch Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Dominic&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=Automating%20the%20boring%20stuff%20since%20day%201&descAlignY=58&descSize=18&descColor=ffffff&animation=twinkling" />
-
-<!-- Typing Animation -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Automation+Engineer;🌐+WordPress+Architect;⚡+Telegram+Bot+Builder;🔁+n8n+Workflow+Wizard;🚀+Building+things+that+run+themselves" alt="Typing SVG" />
-</a>
+<img src="./banner.svg" width="100%" alt="DominicFX" />
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Typing Animation -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Automation+Engineer;🔁+n8n+Workflow+Wizard;⚡+Telegram+Bot+Builder;🚀+Building+things+that+run+themselves" alt="Typing SVG" />
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DominicFX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominicFX)
 [![Profile Views](https://komarev.com/ghpvc/?username=DominicFX&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/DominicFX)
@@ -21,29 +19,22 @@
 
 -----
 
-## 🧠 Wer bin ich?
+## 🧠 Who am I?
 
 ```yaml
-name: Dominic
-alias: DominicFX
-focus: Automation & Web
-philosophy: "Wenn eine Maschine es tun kann – warum sollte ich?"
+name: DominicFX
+focus: Automation & Bots
+philosophy: "I don't work hard. My automations do."
 currently_building:
-  - Telegram Bots die wirklich nützlich sind
-  - n8n Workflows die ganze Prozesse ersetzen
-  - WordPress Sites die performen
-superpower: Komplexe Probleme in automatisierte Lösungen übersetzen
+  - Telegram bots that actually do something useful
+  - n8n workflows that replace entire processes
+  - Tools that run themselves
+superpower: Turning repetitive problems into automated solutions
 ```
 
 -----
 
 ## ⚙️ Tech Stack
-
-### 🌐 Web & Content
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 Automation & Bots
 
@@ -51,7 +42,12 @@ superpower: Komplexe Probleme in automatisierte Lösungen übersetzen
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Tools & Workflow
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -59,15 +55,14 @@ superpower: Komplexe Probleme in automatisierte Lösungen übersetzen
 
 -----
 
-## 🚀 Was ich baue
+## 🚀 What I Build
 
-> *Keine riesigen Repos – aber Dinge, die tatsächlich funktionieren und Zeit sparen.*
+> *Not the biggest repos. Just things that actually work — and keep working without me.*
 
-|Projekt         |Was es tut                                           |Tech                 |
-|----------------|-----------------------------------------------------|---------------------|
-|🤖 Telegram Bot  |Automatisierte Benachrichtigungen & Commands         |Telegram API, Python |
-|🔁 n8n Workflows |Prozesse automatisiert – von A nach B ohne Handarbeit|n8n, Webhooks, APIs  |
-|🌐 WordPress Site|Vollständig aufgebaute, live gehende Website         |WordPress, Custom CSS|
+|Project        |What it does                                    |Tech                |
+|---------------|------------------------------------------------|--------------------|
+|🤖 Telegram Bot |Automated notifications & commands              |Telegram API, Python|
+|🔁 n8n Workflows|End-to-end process automation, zero manual steps|n8n, Webhooks, APIs |
 
 -----
 
@@ -86,15 +81,15 @@ superpower: Komplexe Probleme in automatisierte Lösungen übersetzen
 
 -----
 
-## 💡 Meine Philosophie
+## 💡 Philosophy
 
 ```
-Ich schreibe keinen Code für Code's sake.
-Ich baue Systeme, die Arbeit erledigen – auch wenn ich schlafe.
+I don't work hard. My automations do.
 
-Ein guter Bot > 1000 manuelle Klicks.
-Ein guter Workflow > ein ganzer Arbeitstag.
-Eine gute Website > jede Visitenkarte.
+Every manual task is a bug waiting to be fixed.
+Every repeated click is a workflow waiting to be built.
+Every boring job is someone else's problem —
+  or better yet, a bot's.
 ```
 
 -----
@@ -109,10 +104,8 @@ Eine gute Website > jede Visitenkarte.
 
 <div align="center">
 
-<!-- Footer Wave -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=twinkling" />
 
-*„Automation is not about replacing humans. It’s about freeing them.”*
+*“Work smarter. Then automate the smart part too.”*
 
 </div>
